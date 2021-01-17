@@ -1,3 +1,3 @@
 # Animal's Gallery
 
-I good looking Animal's Gallery
+A good looking Animal's Gallery
