@@ -1,3 +1,3 @@
 # Animal's Gallery
 
-A good lookin Animal's Gallery
+A good lookin shingAnimal's Gallery
