@@ -58,10 +58,10 @@ img:hover {
 img {
   border: 4px solid #e4dcd5;
   border-radius: 25px;
-  height:auto;
+  height: auto;
   margin-top: 10px;
   /* width: 100%; */
-  max-width:100%;
+  max-width: 100%;
   transition: transform 1s;
 }
 
