@@ -39,7 +39,7 @@ h3:hover {
   text-align: center;
   top: 0;
 }
-
+ 
 /* Add panel at the top of the page*/
 .cardsbody {
   border: 5px solid #ddda94;
@@ -49,6 +49,10 @@ h3:hover {
   justify-content: center;
   margin: 10px;
   /* text-align: center; */
+}
+
+div > p {
+  text-align: center;
 }
 
 img:hover {
@@ -71,7 +75,6 @@ img {
   justify-content: center;
   margin: 10px;
   /* width: 16em; */
-
 }
 
 .innercards {
