@@ -96,3 +96,8 @@ p {
 .bigword {
   font-size: 20pt;
 }
+
+.reducedwh {
+  width: 200px;
+  height: 200px;
+}
